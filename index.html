@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Time</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>WEATHER TIME</h1>
+
+     
+    <button id="geolocate-btn">Géolocate</button>
+
+  
+    <div id="info" >
+        <p>Latitude: <span id="latitude"></span></p>
+        <p>Longitude: <span id="longitude"></span></p>
+        <p>Précision: <span id="accuracy"></span></p>
+    </div>
+
+    
+    <div id="weatherInfo" >
+        <p>Ville: <span id="city"></span></p>
+        <p>Température: <span id="temperature"></span></p>
+        <p>Description: <span id="description"></span></p>
+        <img id="weatherIcon" alt="Icône météo">
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
