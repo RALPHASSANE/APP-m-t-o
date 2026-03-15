@@ -6,7 +6,7 @@ Projet d'application météo simple réalisé dans le cadre de ma formation, per
 
 _(Astuce : Faites une capture d'écran de votre application en fonctionnement et insérez-la ici. Sur GitHub, vous pouvez simplement glisser-déposer l'image dans la zone de texte.)_
 
-![Aperçu de Weather Time](lien_vers_votre_screenshot.png)
+![Aperçu de Weather Time](apercu.png)
 
 ## Description
 
